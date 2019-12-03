@@ -1,0 +1,15 @@
+23:05:26 **** Incremental Build of configuration Debug for project class example ****
+make all 
+Building file: ../example.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"example.d" -MT"example.o" -o "example.o" "../example.cpp"
+Finished building: ../example.cpp
+ 
+Building target: class example
+Invoking: MacOS X C++ Linker
+g++  -o "class example"  ./example.o   
+Finished building target: class example
+ 
+
+23:05:26 Build Finished. 0 errors, 0 warnings. (took 445ms)
+

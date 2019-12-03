@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;lastGuest&apos; in &apos;DessertSolvers.firstDessertVariableCourses(...)&apos; to &apos;firstForDessert&apos;&#x0A;- Original project: &apos;DessertQueue_300&apos;&#x0A;- Original element: &apos;DessertSolvers.firstDessertVariableCourses(int, int).lastGuest&apos;&#x0A;- Renamed element: &apos;lastGuest&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;lastGuest&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{DessertSolvers.java[DessertSolvers~firstDessertVariableCourses~I~I@lastGuest!2165!2187!2171!2179!QGuest;!0!false" name="firstForDessert" references="true" stamp="1554751556064" version="1.0"/>
+</session>

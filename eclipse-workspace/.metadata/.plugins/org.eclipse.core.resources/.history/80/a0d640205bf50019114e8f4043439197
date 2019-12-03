@@ -1,0 +1,162 @@
+import java.util.ArrayList;
+
+// TODO: comment and complete your HashTableADT implementation
+//
+// TODO: implement all required methods
+// DO ADD REQUIRED PUBLIC METHODS TO IMPLEMENT interfaces
+//
+// DO NOT ADD ADDITIONAL PUBLIC MEMBERS TO YOUR CLASS
+// (no public or package methods that are not in implemented interfaces)
+//
+// TODO: describe the collision resolution scheme you have chosen
+// identify your scheme as open addressing or bucket
+//
+// if open addressing: describe probe sequence
+// if buckets: describe data structure for each bucket
+//
+// TODO: explain your hashing algorithm here
+// NOTE: you are not required to design your own algorithm for hashing,
+// since you do not know the type for K,
+// you must use the hashCode provided by the <K key> object
+
+/**
+ * HashTable implementation that uses:
+ * 
+ * @param <K> unique comparable identifier for each <K,V> pair, may not be null
+ * @param <V> associated value with a key, value may be null
+ */
+public class BookHashTable implements HashTableADT<String, Book> {
+
+  /** The initial capacity that is used if none is specifed user */
+  static final int DEFAULT_CAPACITY = 101;
+
+  /** The load factor that is used if none is specified by user */
+  static final double DEFAULT_LOAD_FACTOR_THRESHOLD = 0.75;
+
+  private int tableSize;
+  private int numKeys;
+  private ArrayList<Book>[] bookTable;
+  private double loadFactorThreshold;
+  private double loadFactor = (double) numKeys/tableSize;
+
+  /**
+   * REQUIRED default no-arg constructor Uses default capacity and sets load factor threshold for
+   * the newly created hash table.
+   */
+  public BookHashTable() {
+    this(DEFAULT_CAPACITY, DEFAULT_LOAD_FACTOR_THRESHOLD);
+  }
+
+  /**
+   * Creates an empty hash table with the specified capacity and load factor.
+   * 
+   * @param initialCapacity number of elements table should hold at start.
+   * @param loadFactorThreshold the ratio of items/capacity that causes table to resize and rehash
+   */
+  public BookHashTable(int initialCapacity, double loadFactorThreshold) {
+    this.tableSize = initialCapacity;
+    this.loadFactorThreshold = loadFactorThreshold;
+    bookTable = new ArrayList[tableSize];
+  }
+
+  /**
+   * generates a hash index for a given ISBN number as a string, using character weighting
+   * 
+   * @param isbn - string representation of the book's ISBN number
+   * @return hash table index for the book
+   */
+  private int hashIndex(String isbn) {
+    int index = 0;
+    for (int i = 2; i < 12; i++) { // digits 3-12 are unique in the ISBN, so weight indexes 2-11
+      index += isbn.charAt(i) * Math.pow(31, i - 2); // weight by digit position
+    }
+    return index % tableSize;
+  }
+  
+  /**
+   * resizes the book hash table and reassigns each book to a new index based on the new size
+   * 
+   */
+  private void rehash() {
+    int newHashIndex;
+    tableSize = tableSize * 2 + 1; // resize
+    ArrayList<Book>[] newTable = new ArrayList[tableSize]; // create new table to fill
+    // traverse through the old table, rehashing every item
+    for(int i = 0; i < bookTable.length; i++) {
+      for(int j = 0; j < bookTable[i].size(); j++) {
+        newHashIndex = hashIndex(bookTable[i].get(j).getKey());
+        newTable[newHashIndex].add(bookTable[i].get(j));
+      }
+    }
+    bookTable = newTable; // point the hashTable to the newly created/filled table
+  }
+
+  /**
+   * puts a Book into the hashTable, using its ISBN key value. if the loadFactorThreshold is
+   * reached, rehash.
+   *
+   * @param key - String representation of ISBN 
+   * @param value - Book object reference
+   * @throws IllegalNullKeyException if the ISBN value is null
+   * @throws DuplicateKeyException if the book is already in the hashTable
+   */
+  @Override
+  public void insert(String key, Book value) throws IllegalNullKeyException, DuplicateKeyException {
+    int hashIndex;
+    if (key == null) {
+      throw new IllegalNullKeyException();
+    }
+    hashIndex = hashIndex(key);
+    for(int i = 0; i < bookTable[hashIndex].size(); i++) {
+      if(bookTable[hashIndex].get(i).getKey().equals(key)) {
+        throw new DuplicateKeyException();
+      }
+    }
+    bookTable[hashIndex].add(value);
+    numKeys++;
+    
+    if(loadFactor >= loadFactorThreshold) {
+      rehash();
+    }
+
+  }
+
+  @Override
+  public boolean remove(String key) throws IllegalNullKeyException {
+    // TODO Auto-generated method stub
+    return false;
+  }
+
+  @Override
+  public Book get(String key) throws IllegalNullKeyException, KeyNotFoundException {
+    // TODO Auto-generated method stub
+    return null;
+  }
+
+  @Override
+  public int numKeys() {
+    // TODO Auto-generated method stub
+    return 0;
+  }
+
+  @Override
+  public double getLoadFactorThreshold() {
+    // TODO Auto-generated method stub
+    return 0;
+  }
+
+  @Override
+  public int getCapacity() {
+    // TODO Auto-generated method stub
+    return 0;
+  }
+
+  @Override
+  public int getCollisionResolutionScheme() {
+    // TODO Auto-generated method stub
+    return 0;
+  }
+
+  // TODO: add all unimplemented methods so that the class can compile
+
+}

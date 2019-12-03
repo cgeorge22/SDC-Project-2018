@@ -1,0 +1,15 @@
+11:41:15 **** Incremental Build of configuration Debug for project Lecture_7_368 ****
+make all 
+Building file: ../lecCode.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"lecCode.d" -MT"lecCode.o" -o "lecCode.o" "../lecCode.cpp"
+Finished building: ../lecCode.cpp
+ 
+Building target: Lecture_7_368
+Invoking: MacOS X C++ Linker
+g++  -o "Lecture_7_368"  ./lecCode.o   
+Finished building target: Lecture_7_368
+ 
+
+11:41:16 Build Finished. 0 errors, 0 warnings. (took 958ms)
+

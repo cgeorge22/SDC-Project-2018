@@ -1,0 +1,19 @@
+11:41:10 **** Incremental Build of configuration Debug for project FinalTest_368 ****
+make all 
+Building file: ../pleaseWork.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"pleaseWork.d" -MT"pleaseWork.o" -o "pleaseWork.o" "../pleaseWork.cpp"
+../pleaseWork.cpp:13:6: warning: unused variable 'num' [-Wunused-variable]
+        int num;
+            ^
+1 warning generated.
+Finished building: ../pleaseWork.cpp
+ 
+Building target: FinalTest_368
+Invoking: MacOS X C++ Linker
+g++  -o "FinalTest_368"  ./pleaseWork.o   
+Finished building target: FinalTest_368
+ 
+
+11:41:11 Build Finished. 0 errors, 1 warnings. (took 439ms)
+

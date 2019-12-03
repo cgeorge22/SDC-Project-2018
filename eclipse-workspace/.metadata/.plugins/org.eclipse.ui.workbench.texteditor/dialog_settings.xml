@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="PrintWriter"/>
+		<item key="casesensitive" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="wrap" value="true"/>
+		<item key="wholeword" value="false"/>
+		<list key="findhistory">
+			<item value="printwriter"/>
+			<item value="system.out.println"/>
+			<item value="sortTopDown"/>
+			<item value="get()"/>
+			<item value="print()"/>
+			<item value="numKeys"/>
+			<item value="print"/>
+			<item value="system.out"/>
+			<item value="system.out.print"/>
+			<item value="root"/>
+			<item value=" = "/>
+			<item value="= "/>
+			<item value="="/>
+			<item value="balance"/>
+			<item value="setLeft"/>
+		</list>
+		<list key="replacehistory">
+			<item value="System.err.println"/>
+			<item value="Config.WALL_CHAR"/>
+			<item value="Config.BOX_CHAR"/>
+			<item value="Config.EMPTY_CHAR"/>
+			<item value="Config.Enpty."/>
+			<item value=" Config.BOX_CHAR"/>
+			<item value="Config.WORKER_CHAR"/>
+			<item value=" "/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_WIDTH" value="290"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+		<item key="DIALOG_HEIGHT" value="409"/>
+		<item key="DIALOG_X_ORIGIN" value="1115"/>
+		<item key="DIALOG_Y_ORIGIN" value="0"/>
+	</section>
+</section>

@@ -1,0 +1,1 @@
+pleaseWork.o: ../pleaseWork.cpp

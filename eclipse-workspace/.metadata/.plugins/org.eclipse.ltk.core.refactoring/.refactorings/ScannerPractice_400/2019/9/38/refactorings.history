@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;ScannerPractice.calcAndRecordBMI(...)&apos; to &apos;calcBMI&apos;&#x0A;- Original project: &apos;ScannerPractice_400&apos;&#x0A;- Original element: &apos;ScannerPractice.calcAndRecordBMI(...)&apos;&#x0A;- Renamed element: &apos;ScannerPractice.calcBMI(...)&apos;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;calcAndRecordBMI&apos;" flags="589826" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;{ScannerPractice.java[ScannerPractice~calcAndRecordBMI~QString;~D~D" name="calcBMI" references="true" stamp="1568870136225" version="1.0"/>
+</session>

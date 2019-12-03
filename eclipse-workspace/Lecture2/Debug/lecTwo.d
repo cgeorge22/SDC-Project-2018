@@ -1,0 +1,1 @@
+lecTwo.o: ../lecTwo.cpp

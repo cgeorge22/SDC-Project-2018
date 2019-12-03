@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;singleLevelList&apos; in &apos;BALST.singleLevelTraversal(...)&apos; to &apos;levelList&apos;&#x0A;- Original project: &apos;P2_400&apos;&#x0A;- Original element: &apos;BALST.singleLevelTraversal(int, BSTNode&lt;K, V&gt;).singleLevelList&apos;&#x0A;- Renamed element: &apos;singleLevelList&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;singleLevelList&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/&lt;{BALST.java[BALST~singleLevelTraversal~I~QBSTNode\&lt;QK;QV;&gt;;@singleLevelList!8226!8275!8239!8253!QArrayList\&lt;QK;&gt;;!0!false" name="levelList" references="true" stamp="1570682728148" version="1.0"/>
+</session>

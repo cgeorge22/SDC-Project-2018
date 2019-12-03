@@ -1,0 +1,19 @@
+11:41:14 **** Incremental Build of configuration Debug for project Lect_6_368 ****
+make all 
+Building file: ../lec6code.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"lec6code.d" -MT"lec6code.o" -o "lec6code.o" "../lec6code.cpp"
+../lec6code.cpp:98:7: warning: unused variable 'e' [-Wunused-variable]
+        auto e = v7.end(); // end() actually points to one place past the end of v
+             ^
+1 warning generated.
+Finished building: ../lec6code.cpp
+ 
+Building target: Lect_6_368
+Invoking: MacOS X C++ Linker
+g++  -o "Lect_6_368"  ./lec6code.o   
+Finished building target: Lect_6_368
+ 
+
+11:41:15 Build Finished. 0 errors, 1 warnings. (took 603ms)
+

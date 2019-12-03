@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Lecture_ClassesAndOOP_368/LectureCode&apos;" deleteContents="false" description="Delete resource &apos;Lecture_ClassesAndOOP_368/LectureCode&apos;" element1="/Lecture_ClassesAndOOP_368/LectureCode" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1539798772368"/>&#x0A;<refactoring comment="Delete resource &apos;Lecture_ClassesAndOOP_368/LecCode&apos;" deleteContents="false" description="Delete resource &apos;Lecture_ClassesAndOOP_368/LecCode&apos;" element1="/Lecture_ClassesAndOOP_368/LecCode" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1539798780825"/>
+</session>

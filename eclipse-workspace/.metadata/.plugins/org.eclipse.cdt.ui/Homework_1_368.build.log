@@ -1,0 +1,15 @@
+11:41:11 **** Incremental Build of configuration Debug for project Homework_1_368 ****
+make all 
+Building file: ../homework_1_chrisG.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"homework_1_chrisG.d" -MT"homework_1_chrisG.o" -o "homework_1_chrisG.o" "../homework_1_chrisG.cpp"
+Finished building: ../homework_1_chrisG.cpp
+ 
+Building target: Homework_1_368
+Invoking: MacOS X C++ Linker
+g++  -o "Homework_1_368"  ./homework_1_chrisG.o   
+Finished building target: Homework_1_368
+ 
+
+11:41:12 Build Finished. 0 errors, 0 warnings. (took 486ms)
+

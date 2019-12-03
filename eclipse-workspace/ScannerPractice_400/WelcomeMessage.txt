@@ -1,0 +1,3 @@
+Welcome to the BMI calculator!
+Follow the prompts to calculate and record BMI.
+This program will output a list of all BMI calculations from this session as a text file.

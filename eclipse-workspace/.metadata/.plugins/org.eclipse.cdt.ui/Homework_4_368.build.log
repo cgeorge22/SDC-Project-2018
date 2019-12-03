@@ -1,0 +1,46 @@
+00:17:47 **** Incremental Build of configuration Debug for project Homework_4_368 ****
+make all 
+Building target: Homework_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "Homework_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Undefined symbols for architecture x86_64:
+  "PLAYER::Get_Facing()", referenced from:
+      _main in homework_4.o
+  "PLAYER::Turn_Right()", referenced from:
+      _main in homework_4.o
+  "PLAYER::Pickup_Gold(CAVE&)", referenced from:
+      _main in homework_4.o
+  "PLAYER::Shoot_Arrow(CAVE&)", referenced from:
+      _main in homework_4.o
+  "PLAYER::Climb_Ladder()", referenced from:
+      _main in homework_4.o
+  "PLAYER::Get_Position()", referenced from:
+      _main in homework_4.o
+  "PLAYER::Move_Forward()", referenced from:
+      _main in homework_4.o
+  "PLAYER::Get_Next_Square()", referenced from:
+      _main in homework_4.o
+  "PLAYER::Update_Player_Status(CAVE&)", referenced from:
+      _main in homework_4.o
+  "PLAYER::Fell()", referenced from:
+      _main in homework_4.o
+  "PLAYER::Eaten()", referenced from:
+      _main in homework_4.o
+  "PLAYER::Escaped()", referenced from:
+      _main in homework_4.o
+  "PLAYER::Has_Gold()", referenced from:
+      _main in homework_4.o
+  "PLAYER::Has_Arrow()", referenced from:
+      _main in homework_4.o
+  "PLAYER::Turn_Left()", referenced from:
+      _main in homework_4.o
+  "PLAYER::PLAYER()", referenced from:
+      _main in homework_4.o
+  "PLAYER::~PLAYER()", referenced from:
+      _main in homework_4.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [Homework_4_368] Error 1
+
+00:17:47 Build Failed. 2 errors, 0 warnings. (took 192ms)
+

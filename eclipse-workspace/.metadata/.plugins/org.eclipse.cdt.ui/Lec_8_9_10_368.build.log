@@ -1,0 +1,37 @@
+01:57:44 **** Build of configuration Debug for project Lec_8_9_10_368 ****
+make all 
+Building file: ../Lecture_10.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Lecture_10.d" -MT"Lecture_10.o" -o "Lecture_10.o" "../Lecture_10.cpp"
+Finished building: ../Lecture_10.cpp
+ 
+Building file: ../Lecture_8.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Lecture_8.d" -MT"Lecture_8.o" -o "Lecture_8.o" "../Lecture_8.cpp"
+Finished building: ../Lecture_8.cpp
+ 
+Building file: ../Lecture_9.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Lecture_9.d" -MT"Lecture_9.o" -o "Lecture_9.o" "../Lecture_9.cpp"
+Finished building: ../Lecture_9.cpp
+ 
+Building file: ../POINT.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"POINT.d" -MT"POINT.o" -o "POINT.o" "../POINT.cpp"
+Finished building: ../POINT.cpp
+ 
+Building target: Lec_8_9_10_368
+Invoking: MacOS X C++ Linker
+g++  -o "Lec_8_9_10_368"  ./Lecture_10.o ./Lecture_8.o ./Lecture_9.o ./POINT.o   
+duplicate symbol _main in:
+    ./Lecture_10.o
+    ./Lecture_8.o
+duplicate symbol _main in:
+    ./Lecture_10.o
+    ./Lecture_9.o
+ld: 2 duplicate symbols for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [Lec_8_9_10_368] Error 1
+
+01:57:46 Build Failed. 2 errors, 0 warnings. (took 2s.62ms)
+

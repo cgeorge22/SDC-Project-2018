@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;addTo&apos; in &apos;Main.main(...)&apos; to &apos;sum&apos;&#x0A;- Original project: &apos;CME&apos;&#x0A;- Original element: &apos;Main.main(String[]).addTo&apos;&#x0A;- Renamed element: &apos;addTo&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;addTo&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Main.java[Main~main~\[QString;@addTo!538!551!542!546!I!0!false" name="sum" references="true" stamp="1569958346725" version="1.0"/>
+</session>

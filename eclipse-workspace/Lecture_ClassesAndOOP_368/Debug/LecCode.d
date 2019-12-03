@@ -1,0 +1,1 @@
+LecCode.o: ../LecCode.cpp

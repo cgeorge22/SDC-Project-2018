@@ -1,0 +1,6 @@
+19:43:10 **** Incremental Build of configuration Debug for project Lec3 ****
+make all 
+make: Nothing to be done for `all'.
+
+19:43:10 Build Finished. 0 errors, 0 warnings. (took 71ms)
+

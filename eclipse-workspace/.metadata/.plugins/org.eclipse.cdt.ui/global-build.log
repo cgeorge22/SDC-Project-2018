@@ -1,0 +1,2173 @@
+12:06:03 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:06:24 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+make: Nothing to be done for `all'.
+12:07:09 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:07:14 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:07:19 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:07:29 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:07:43 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:08:03 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:08:18 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:31:6: warning: unused variable 'turn_counter' [-Wunused-variable]
+        int turn_counter = 0;
+            ^
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+../homework_4.cpp:30:9: warning: unused variable 'player' [-Wunused-variable]
+        PLAYER player;
+               ^
+3 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:09:10 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+../homework_4.cpp:31:6: warning: unused variable 'turn_counter' [-Wunused-variable]
+        int turn_counter = 0;
+            ^
+../homework_4.cpp:30:9: warning: unused variable 'player' [-Wunused-variable]
+        PLAYER player;
+               ^
+3 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:09:23 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:30:9: warning: unused variable 'player' [-Wunused-variable]
+        PLAYER player;
+               ^
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+../homework_4.cpp:31:6: warning: unused variable 'turn_counter' [-Wunused-variable]
+        int turn_counter = 0;
+            ^
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+4 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:09:33 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:31:6: warning: unused variable 'turn_counter' [-Wunused-variable]
+        int turn_counter = 0;
+            ^
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+../PLAYER.h:29:7: warning: private field 'hasArrow' is not used [-Wunused-private-field]
+        bool hasArrow;
+             ^
+../PLAYER.h:30:7: warning: private field 'hasGold' is not used [-Wunused-private-field]
+        bool hasGold;
+             ^
+5 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:09:47 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+../homework_4.cpp:31:6: warning: unused variable 'turn_counter' [-Wunused-variable]
+        int turn_counter = 0;
+            ^
+2 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Undefined symbols for architecture x86_64:
+  "PLAYER::PLAYER()", referenced from:
+      _main in homework_4.o
+  "PLAYER::~PLAYER()", referenced from:
+      _main in homework_4.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [HW_4_368] Error 1
+12:10:03 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:9:1: error: 'using namespace' is not allowed in classes
+using namespace std;
+^
+../homework_4.cpp:170:1: error: expected '}'
+^
+../PLAYER.h:21:14: note: to match this '{'
+class PLAYER {
+             ^
+../homework_4.cpp:31:6: warning: unused variable 'turn_counter' [-Wunused-variable]
+        int turn_counter = 0;
+            ^
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+../homework_4.cpp:169:2: error: expected ';' after class
+}
+ ^
+ ;
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+../PLAYER.h:29:7: warning: private field 'hasArrow' is not used [-Wunused-private-field]
+        bool hasArrow;
+             ^
+../PLAYER.h:30:7: warning: private field 'hasGold' is not used [-Wunused-private-field]
+        bool hasGold;
+             ^
+5 warnings and 3 errors generated.
+make: *** [homework_4.o] Error 1
+12:10:26 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:9:1: error: 'using namespace' is not allowed in classes
+using namespace std;
+^
+../homework_4.cpp:170:1: error: expected '}'
+^
+../PLAYER.h:21:14: note: to match this '{'
+class PLAYER {
+             ^
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+../homework_4.cpp:31:6: warning: unused variable 'turn_counter' [-Wunused-variable]
+        int turn_counter = 0;
+            ^
+../homework_4.cpp:169:2: error: expected ';' after class
+}
+ ^
+ ;
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+../PLAYER.h:29:7: warning: private field 'hasArrow' is not used [-Wunused-private-field]
+        bool hasArrow;
+             ^
+4 warnings and 3 errors generated.
+make: *** [homework_4.o] Error 1
+12:11:23 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:30:2: error: unknown type name 'PLAYER'
+        PLAYER player;
+        ^
+1 error generated.
+make: *** [homework_4.o] Error 1
+12:11:42 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:12:08 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:9:1: error: 'using namespace' is not allowed in classes
+using namespace std;
+^
+../homework_4.cpp:170:1: error: expected '}'
+^
+../PLAYER.h:21:14: note: to match this '{'
+class PLAYER {
+             ^
+../homework_4.cpp:169:2: error: expected ';' after class
+}
+ ^
+ ;
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+../PLAYER.h:29:7: warning: private field 'hasArrow' is not used [-Wunused-private-field]
+        bool hasArrow;
+             ^
+../PLAYER.h:30:7: warning: private field 'hasGold' is not used [-Wunused-private-field]
+        bool hasGold;
+             ^
+3 warnings and 3 errors generated.
+make: *** [homework_4.o] Error 1
+12:12:41 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:170:1: error: expected '}'
+^
+../PLAYER.h:21:14: note: to match this '{'
+class PLAYER {
+             ^
+../homework_4.cpp:169:2: error: expected ';' after class
+}
+ ^
+ ;
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+../PLAYER.h:29:7: warning: private field 'hasArrow' is not used [-Wunused-private-field]
+        bool hasArrow;
+             ^
+../PLAYER.h:30:7: warning: private field 'hasGold' is not used [-Wunused-private-field]
+        bool hasGold;
+             ^
+3 warnings and 2 errors generated.
+make: *** [homework_4.o] Error 1
+12:13:20 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:13:34 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:13:57 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:14:10 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:170:1: error: expected '}'
+^
+../PLAYER.h:21:14: note: to match this '{'
+class PLAYER {
+             ^
+../homework_4.cpp:169:2: error: expected ';' after class
+}
+ ^
+ ;
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+1 warning and 2 errors generated.
+make: *** [homework_4.o] Error 1
+12:14:31 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:16:26 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:16:32 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+../PLAYER.h:29:7: warning: private field 'hasArrow' is not used [-Wunused-private-field]
+        bool hasArrow;
+             ^
+2 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:16:39 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+../PLAYER.h:29:7: warning: private field 'hasArrow' is not used [-Wunused-private-field]
+        bool hasArrow;
+             ^
+../PLAYER.h:30:7: warning: private field 'hasGold' is not used [-Wunused-private-field]
+        bool hasGold;
+             ^
+3 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:17:03 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+../PLAYER.h:29:7: warning: private field 'hasArrow' is not used [-Wunused-private-field]
+        bool hasArrow;
+             ^
+../PLAYER.h:30:7: warning: private field 'hasGold' is not used [-Wunused-private-field]
+        bool hasGold;
+             ^
+3 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:17:12 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+../PLAYER.h:29:7: warning: private field 'hasArrow' is not used [-Wunused-private-field]
+        bool hasArrow;
+             ^
+../PLAYER.h:30:7: warning: private field 'hasGold' is not used [-Wunused-private-field]
+        bool hasGold;
+             ^
+3 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:17:30 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+../PLAYER.h:29:7: warning: private field 'hasArrow' is not used [-Wunused-private-field]
+        bool hasArrow;
+             ^
+../PLAYER.h:30:7: warning: private field 'hasGold' is not used [-Wunused-private-field]
+        bool hasGold;
+             ^
+3 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:17:39 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+../PLAYER.h:29:7: warning: private field 'hasArrow' is not used [-Wunused-private-field]
+        bool hasArrow;
+             ^
+../PLAYER.h:30:7: warning: private field 'hasGold' is not used [-Wunused-private-field]
+        bool hasGold;
+             ^
+3 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:17:47 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+../PLAYER.h:29:7: warning: private field 'hasArrow' is not used [-Wunused-private-field]
+        bool hasArrow;
+             ^
+../PLAYER.h:30:7: warning: private field 'hasGold' is not used [-Wunused-private-field]
+        bool hasGold;
+             ^
+3 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:17:55 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+../PLAYER.h:29:7: warning: private field 'hasArrow' is not used [-Wunused-private-field]
+        bool hasArrow;
+             ^
+../PLAYER.h:30:7: warning: private field 'hasGold' is not used [-Wunused-private-field]
+        bool hasGold;
+             ^
+3 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:18:00 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:31:6: warning: unused variable 'turn_counter' [-Wunused-variable]
+        int turn_counter = 0;
+            ^
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+../PLAYER.h:29:7: warning: private field 'hasArrow' is not used [-Wunused-private-field]
+        bool hasArrow;
+             ^
+../PLAYER.h:30:7: warning: private field 'hasGold' is not used [-Wunused-private-field]
+        bool hasGold;
+             ^
+4 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:18:07 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:31:6: warning: unused variable 'turn_counter' [-Wunused-variable]
+        int turn_counter = 0;
+            ^
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+../PLAYER.h:29:7: warning: private field 'hasArrow' is not used [-Wunused-private-field]
+        bool hasArrow;
+             ^
+../PLAYER.h:30:7: warning: private field 'hasGold' is not used [-Wunused-private-field]
+        bool hasGold;
+             ^
+5 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:18:46 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+../homework_4.cpp:31:6: warning: unused variable 'turn_counter' [-Wunused-variable]
+        int turn_counter = 0;
+            ^
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+../PLAYER.h:29:7: warning: private field 'hasArrow' is not used [-Wunused-private-field]
+        bool hasArrow;
+             ^
+../PLAYER.h:30:7: warning: private field 'hasGold' is not used [-Wunused-private-field]
+        bool hasGold;
+             ^
+5 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:18:54 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:31:6: warning: unused variable 'turn_counter' [-Wunused-variable]
+        int turn_counter = 0;
+            ^
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+2 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Undefined symbols for architecture x86_64:
+  "PLAYER::PLAYER()", referenced from:
+      _main in homework_4.o
+  "PLAYER::~PLAYER()", referenced from:
+      _main in homework_4.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [HW_4_368] Error 1
+12:19:05 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+../homework_4.cpp:31:6: warning: unused variable 'turn_counter' [-Wunused-variable]
+        int turn_counter = 0;
+            ^
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+../PLAYER.h:29:7: warning: private field 'hasArrow' is not used [-Wunused-private-field]
+        bool hasArrow;
+             ^
+../PLAYER.h:30:7: warning: private field 'hasGold' is not used [-Wunused-private-field]
+        bool hasGold;
+             ^
+5 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:19:12 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+../homework_4.cpp:31:6: warning: unused variable 'turn_counter' [-Wunused-variable]
+        int turn_counter = 0;
+            ^
+2 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Undefined symbols for architecture x86_64:
+  "PLAYER::PLAYER()", referenced from:
+      _main in homework_4.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [HW_4_368] Error 1
+12:19:19 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+../homework_4.cpp:31:6: warning: unused variable 'turn_counter' [-Wunused-variable]
+        int turn_counter = 0;
+            ^
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+../PLAYER.h:29:7: warning: private field 'hasArrow' is not used [-Wunused-private-field]
+        bool hasArrow;
+             ^
+../PLAYER.h:30:7: warning: private field 'hasGold' is not used [-Wunused-private-field]
+        bool hasGold;
+             ^
+5 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:21:57 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+In file included from ../PLAYER.cpp:7:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+../PLAYER.h:29:7: warning: private field 'hasArrow' is not used [-Wunused-private-field]
+        bool hasArrow;
+             ^
+../PLAYER.h:30:7: warning: private field 'hasGold' is not used [-Wunused-private-field]
+        bool hasGold;
+             ^
+3 warnings generated.
+Finished building: ../PLAYER.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:33:11 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+../PLAYER.h:29:7: warning: private field 'hasArrow' is not used [-Wunused-private-field]
+        bool hasArrow;
+             ^
+../PLAYER.h:30:7: warning: private field 'hasGold' is not used [-Wunused-private-field]
+        bool hasGold;
+             ^
+4 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:33:38 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:47:8: warning: unused variable 'c' [-Wunused-variable]
+                char c = *line.begin();
+                     ^
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+../PLAYER.h:29:7: warning: private field 'hasArrow' is not used [-Wunused-private-field]
+        bool hasArrow;
+             ^
+../PLAYER.h:30:7: warning: private field 'hasGold' is not used [-Wunused-private-field]
+        bool hasGold;
+             ^
+5 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:34:30 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+In file included from ../homework_4.cpp:6:
+../PLAYER.h:25:9: warning: private field 'player_status' is not used [-Wunused-private-field]
+        STATUS player_status;
+               ^
+../PLAYER.h:29:7: warning: private field 'hasArrow' is not used [-Wunused-private-field]
+        bool hasArrow;
+             ^
+../PLAYER.h:30:7: warning: private field 'hasGold' is not used [-Wunused-private-field]
+        bool hasGold;
+             ^
+4 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:35:35 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Undefined symbols for architecture x86_64:
+  "PLAYER::PLAYER()", referenced from:
+      _main in homework_4.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [HW_4_368] Error 1
+12:36:23 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:36:58 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:37:44 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:38:07 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:38:29 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:38:45 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+../PLAYER.cpp:113:4: error: expected '}'
+//}
+   ^
+../PLAYER.cpp:26:25: note: to match this '{'
+void PLAYER::Turn_Left(){
+                        ^
+1 error generated.
+make: *** [PLAYER.o] Error 1
+12:39:22 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+../PLAYER.cpp:27:5: error: use of undeclared identifier 'player'
+        if(player.direction == "right"){
+           ^
+../PLAYER.cpp:113:4: error: expected '}'
+//}
+   ^
+../PLAYER.cpp:26:25: note: to match this '{'
+void PLAYER::Turn_Left(){
+                        ^
+2 errors generated.
+make: *** [PLAYER.o] Error 1
+12:39:34 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:40:12 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:40:32 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+12:40:52 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+14:27:44 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+make: Nothing to be done for `all'.
+14:28:05 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+14:28:26 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+14:28:55 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+15:03:33 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+../PLAYER.cpp:116:8: error: 'cave_map' is a private member of 'CAVE'
+                cave.cave_map[position].erase("gold");
+                     ^
+../CAVE.h:14:33: note: implicitly declared private here
+        map<vector<int>, set<string> > cave_map;
+                                       ^
+1 error generated.
+make: *** [PLAYER.o] Error 1
+15:11:39 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+15:25:16 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+15:27:53 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+15:28:42 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+15:29:49 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+15:32:27 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+15:33:23 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:53:11: warning: 10 enumeration values not handled in switch: 'INVALID', 'QUIT', 'MOVE'... [-Wswitch]
+                switch (choice) {
+                        ^
+../homework_4.cpp:53:11: note: add missing switch cases
+                switch (choice) {
+                        ^
+../homework_4.cpp:32:14: warning: unused variable 'game_status' [-Wunused-variable]
+        GAME_STATUS game_status = BEGIN;
+                    ^
+2 warnings generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+15:33:48 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:53:11: warning: 9 enumeration values not handled in switch: 'INVALID', 'MOVE', 'LEFT'... [-Wswitch]
+                switch (choice) {
+                        ^
+../homework_4.cpp:53:11: note: add missing switch cases
+                switch (choice) {
+                        ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+15:33:56 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+make: Nothing to be done for `all'.
+15:34:16 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:53:11: warning: 8 enumeration values not handled in switch: 'INVALID', 'MOVE', 'LEFT'... [-Wswitch]
+                switch (choice) {
+                        ^
+../homework_4.cpp:53:11: note: add missing switch cases
+                switch (choice) {
+                        ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+15:35:44 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:53:11: warning: 7 enumeration values not handled in switch: 'INVALID', 'MOVE', 'LEFT'... [-Wswitch]
+                switch (choice) {
+                        ^
+../homework_4.cpp:53:11: note: add missing switch cases
+                switch (choice) {
+                        ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+15:36:58 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:53:11: warning: 6 enumeration values not handled in switch: 'INVALID', 'MOVE', 'RIGHT'... [-Wswitch]
+                switch (choice) {
+                        ^
+../homework_4.cpp:53:11: note: add missing switch cases
+                switch (choice) {
+                        ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+15:37:16 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:53:11: warning: 5 enumeration values not handled in switch: 'INVALID', 'MOVE', 'SHOOT'... [-Wswitch]
+                switch (choice) {
+                        ^
+../homework_4.cpp:53:11: note: add missing switch cases
+                switch (choice) {
+                        ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+15:38:03 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:53:11: warning: 4 enumeration values not handled in switch: 'INVALID', 'SHOOT', 'PICKUP'... [-Wswitch]
+                switch (choice) {
+                        ^
+../homework_4.cpp:53:11: note: add missing switch cases
+                switch (choice) {
+                        ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+15:38:51 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:53:11: warning: enumeration values 'INVALID', 'SHOOT', and 'PICKUP' not handled in switch [-Wswitch]
+                switch (choice) {
+                        ^
+../homework_4.cpp:53:11: note: add missing switch cases
+                switch (choice) {
+                        ^
+1 warning generated.
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+15:39:22 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:166:2: error: unknown type name 'cout'
+        cout<<"At least this much worked"<<endl;
+        ^
+../homework_4.cpp:166:6: error: expected unqualified-id
+        cout<<"At least this much worked"<<endl;
+            ^
+../homework_4.cpp:167:2: error: expected unqualified-id
+        return 0;
+        ^
+../homework_4.cpp:169:1: error: extraneous closing brace ('}')
+}
+^
+4 errors generated.
+make: *** [homework_4.o] Error 1
+15:39:56 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+17:44:44 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+make: Nothing to be done for `all'.
+17:45:17 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+../homework_4.cpp:166:2: error: unknown type name 'cout'
+        cout<<"At least this much worked"<<endl;
+        ^
+../homework_4.cpp:166:6: error: expected unqualified-id
+        cout<<"At least this much worked"<<endl;
+            ^
+../homework_4.cpp:167:2: error: expected unqualified-id
+        return 0;
+        ^
+../homework_4.cpp:169:1: error: extraneous closing brace ('}')
+}
+^
+4 errors generated.
+make: *** [homework_4.o] Error 1
+17:46:45 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+17:48:52 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+17:49:05 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+make: Nothing to be done for `all'.
+17:49:22 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+17:50:02 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+17:50:31 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+17:52:35 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+17:53:44 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+17:59:24 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+../PLAYER.cpp:116:8: error: 'cave_map' is a private member of 'CAVE'
+                cave.cave_map[position].erase("gold");
+                     ^
+../CAVE.h:14:33: note: implicitly declared private here
+        map<vector<int>, set<string> > cave_map;
+                                       ^
+1 error generated.
+make: *** [PLAYER.o] Error 1
+18:00:43 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+Finished building: ../PLAYER.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+18:02:36 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+../PLAYER.cpp:116:7: error: type 'CAVE' does not provide a subscript operator
+                cave[position].erase("gold");
+                ~~~~^~~~~~~~~
+1 error generated.
+make: *** [PLAYER.o] Error 1
+18:04:27 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+../PLAYER.cpp:116:8: error: reference to non-static member function must be called
+                cave.Remove_Gold;
+                ~~~~~^~~~~~~~~~~
+1 error generated.
+make: *** [PLAYER.o] Error 1
+18:15:31 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+../PLAYER.cpp:89:31: error: use of undeclared identifier 'arrowPositon'
+                                false = cave.Shoot_Square(arrowPositon);
+                                                          ^
+../PLAYER.cpp:107:11: error: reference to non-static member function must be called; did you mean to call it with no arguments?
+                if(cave.Is_Wumpus_Alive){
+                   ~~~~~^~~~~~~~~~~~~~~
+                                       ()
+2 errors generated.
+make: *** [PLAYER.o] Error 1
+18:16:27 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+../PLAYER.cpp:89:31: error: use of undeclared identifier 'arrowPositon'
+                                false = cave.Shoot_Square(arrowPositon);
+                                                          ^
+1 error generated.
+make: *** [PLAYER.o] Error 1
+18:17:28 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+../PLAYER.cpp:89:11: error: expression is not assignable
+                                false = cave.Shoot_Square(arrowPosition);
+                                ~~~~~ ^
+1 error generated.
+make: *** [PLAYER.o] Error 1
+18:17:39 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+../PLAYER.cpp:83:7: warning: unused variable 'hit' [-Wunused-variable]
+        bool hit = false;
+             ^
+../PLAYER.cpp:114:1: warning: control may reach end of non-void function [-Wreturn-type]
+}
+^
+2 warnings generated.
+Finished building: ../PLAYER.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+18:18:27 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+18:21:24 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../homework_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_4.d" -MT"homework_4.o" -o "homework_4.o" "../homework_4.cpp"
+Finished building: ../homework_4.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+18:23:58 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+make: Nothing to be done for `all'.
+20:34:26 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+../PLAYER.cpp:129:1: warning: control may reach end of non-void function [-Wreturn-type]
+}
+^
+1 warning generated.
+Finished building: ../PLAYER.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+17:01:28 **** Build of configuration Debug for project HW_4_368 ****
+make all 
+Building file: ../PLAYER.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"PLAYER.d" -MT"PLAYER.o" -o "PLAYER.o" "../PLAYER.cpp"
+../PLAYER.cpp:131:1: warning: control may reach end of non-void function [-Wreturn-type]
+}
+^
+1 warning generated.
+Finished building: ../PLAYER.cpp
+ 
+Building target: HW_4_368
+Invoking: MacOS X C++ Linker
+g++  -o "HW_4_368"  ./CAVE.o ./PLAYER.o ./homework_4.o   
+Finished building target: HW_4_368
+ 
+11:23:19 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+make: Nothing to be done for `all'.
+
+**** Build of configuration Debug for project CanvasTest_368 ****
+
+Nothing to build for project CanvasTest_368
+01:14:30 **** Build of configuration Debug for project Class_example_368 ****
+make all 
+make: Nothing to be done for `all'.
+01:14:33 **** Build of configuration Debug for project FinalTest_368 ****
+make all 
+make: Nothing to be done for `all'.
+01:14:34 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+make: Nothing to be done for `all'.
+01:14:34 **** Build of configuration Debug for project Homework_1_368 ****
+make all 
+make: Nothing to be done for `all'.
+01:14:34 **** Build of configuration Debug for project Homework_2_368 ****
+make all 
+make: Nothing to be done for `all'.
+01:14:34 **** Build of configuration Debug for project Homework_3_368 ****
+make all 
+make: Nothing to be done for `all'.
+01:14:34 **** Build of configuration Debug for project Lec_3_368 ****
+make all 
+make: Nothing to be done for `all'.
+
+**** Build of configuration Debug for project Lec_5_368 ****
+
+Nothing to build for project Lec_5_368
+01:14:34 **** Build of configuration Debug for project Lect_6_368 ****
+make all 
+make: Nothing to be done for `all'.
+01:14:34 **** Build of configuration Debug for project Lecture_2_368 ****
+make all 
+make: Nothing to be done for `all'.
+01:14:35 **** Build of configuration Debug for project Lecture_7_368 ****
+make all 
+make: Nothing to be done for `all'.
+01:14:35 **** Build of configuration Debug for project Lecture_ClassesAndOOP_368 ****
+make all 
+make: Nothing to be done for `all'.
+01:14:35 **** Build of configuration Debug for project test2_368 ****
+make all 
+make: Nothing to be done for `all'.
+
+**** Build of configuration Debug for project CanvasTest_368 ****
+
+Nothing to build for project CanvasTest_368
+11:41:03 **** Clean-only build of configuration Debug for project Class_example_368 ****
+make clean 
+rm -rf  ./example.o  ./example.d  Class_example_368
+ 
+11:41:06 **** Incremental Build of configuration Debug for project Class_example_368 ****
+make all 
+Building file: ../Lec_8_9_10_368/Lecture_10.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Lec_8_9_10_368/Lecture_10.d" -MT"Lec_8_9_10_368/Lecture_10.o" -o "Lec_8_9_10_368/Lecture_10.o" "../Lec_8_9_10_368/Lecture_10.cpp"
+Finished building: ../Lec_8_9_10_368/Lecture_10.cpp
+ 
+Building file: ../Lec_8_9_10_368/Lecture_8.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Lec_8_9_10_368/Lecture_8.d" -MT"Lec_8_9_10_368/Lecture_8.o" -o "Lec_8_9_10_368/Lecture_8.o" "../Lec_8_9_10_368/Lecture_8.cpp"
+Finished building: ../Lec_8_9_10_368/Lecture_8.cpp
+ 
+Building file: ../Lec_8_9_10_368/Lecture_9.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Lec_8_9_10_368/Lecture_9.d" -MT"Lec_8_9_10_368/Lecture_9.o" -o "Lec_8_9_10_368/Lecture_9.o" "../Lec_8_9_10_368/Lecture_9.cpp"
+Finished building: ../Lec_8_9_10_368/Lecture_9.cpp
+ 
+Building file: ../Lec_8_9_10_368/POINT.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Lec_8_9_10_368/POINT.d" -MT"Lec_8_9_10_368/POINT.o" -o "Lec_8_9_10_368/POINT.o" "../Lec_8_9_10_368/POINT.cpp"
+Finished building: ../Lec_8_9_10_368/POINT.cpp
+ 
+Building file: ../example.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"example.d" -MT"example.o" -o "example.o" "../example.cpp"
+Finished building: ../example.cpp
+ 
+Building target: Class_example_368
+Invoking: MacOS X C++ Linker
+g++  -o "Class_example_368"  ./Lec_8_9_10_368/Lecture_10.o ./Lec_8_9_10_368/Lecture_8.o ./Lec_8_9_10_368/Lecture_9.o ./Lec_8_9_10_368/POINT.o  ./example.o   
+duplicate symbol _main in:
+    ./Lec_8_9_10_368/Lecture_10.o
+    ./Lec_8_9_10_368/Lecture_8.o
+duplicate symbol _main in:
+    ./Lec_8_9_10_368/Lecture_10.o
+    ./Lec_8_9_10_368/Lecture_9.o
+duplicate symbol _main in:
+    ./Lec_8_9_10_368/Lecture_10.o
+    ./example.o
+ld: 3 duplicate symbols for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [Class_example_368] Error 1
+11:41:10 **** Clean-only build of configuration Debug for project FinalTest_368 ****
+make clean 
+rm -rf  ./pleaseWork.o  ./pleaseWork.d  FinalTest_368
+ 
+11:41:10 **** Incremental Build of configuration Debug for project FinalTest_368 ****
+make all 
+Building file: ../pleaseWork.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"pleaseWork.d" -MT"pleaseWork.o" -o "pleaseWork.o" "../pleaseWork.cpp"
+../pleaseWork.cpp:13:6: warning: unused variable 'num' [-Wunused-variable]
+        int num;
+            ^
+1 warning generated.
+Finished building: ../pleaseWork.cpp
+ 
+Building target: FinalTest_368
+Invoking: MacOS X C++ Linker
+g++  -o "FinalTest_368"  ./pleaseWork.o   
+Finished building target: FinalTest_368
+ 
+11:41:11 **** Incremental Build of configuration Debug for project HW_4_368 ****
+make all 
+make: Nothing to be done for `all'.
+11:41:11 **** Clean-only build of configuration Debug for project Homework_1_368 ****
+make clean 
+rm -rf  ./homework_1_chrisG.o  ./homework_1_chrisG.d  Homework_1_368
+ 
+11:41:11 **** Incremental Build of configuration Debug for project Homework_1_368 ****
+make all 
+Building file: ../homework_1_chrisG.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"homework_1_chrisG.d" -MT"homework_1_chrisG.o" -o "homework_1_chrisG.o" "../homework_1_chrisG.cpp"
+Finished building: ../homework_1_chrisG.cpp
+ 
+Building target: Homework_1_368
+Invoking: MacOS X C++ Linker
+g++  -o "Homework_1_368"  ./homework_1_chrisG.o   
+Finished building target: Homework_1_368
+ 
+11:41:12 **** Clean-only build of configuration Debug for project Homework_2_368 ****
+make clean 
+rm -rf  ./homework_2.o  ./homework_2.d  Homework_2_368
+ 
+11:41:12 **** Incremental Build of configuration Debug for project Homework_2_368 ****
+make all 
+Building file: ../homework_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"homework_2.d" -MT"homework_2.o" -o "homework_2.o" "../homework_2.cpp"
+Finished building: ../homework_2.cpp
+ 
+Building target: Homework_2_368
+Invoking: MacOS X C++ Linker
+g++  -o "Homework_2_368"  ./homework_2.o   
+Finished building target: Homework_2_368
+ 
+11:41:12 **** Clean-only build of configuration Debug for project Homework_3_368 ****
+make clean 
+rm -rf  ./homework_3_cg.o  ./homework_3_cg.d  Homework_3_368
+ 
+11:41:12 **** Incremental Build of configuration Debug for project Homework_3_368 ****
+make all 
+Building file: ../homework_3_cg.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"homework_3_cg.d" -MT"homework_3_cg.o" -o "homework_3_cg.o" "../homework_3_cg.cpp"
+Finished building: ../homework_3_cg.cpp
+ 
+Building target: Homework_3_368
+Invoking: MacOS X C++ Linker
+g++  -o "Homework_3_368"  ./homework_3_cg.o   
+Finished building target: Homework_3_368
+ 
+11:41:13 **** Clean-only build of configuration Debug for project Lec_3_368 ****
+make clean 
+rm -rf  ./Lecture_3.o  ./Lecture_3.d  Lec_3_368
+ 
+11:41:13 **** Incremental Build of configuration Debug for project Lec_3_368 ****
+make all 
+Building file: ../Lecture_3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Lecture_3.d" -MT"Lecture_3.o" -o "Lecture_3.o" "../Lecture_3.cpp"
+Finished building: ../Lecture_3.cpp
+ 
+Building target: Lec_3_368
+Invoking: MacOS X C++ Linker
+g++  -o "Lec_3_368"  ./Lecture_3.o   
+Finished building target: Lec_3_368
+ 
+
+**** Build of configuration Debug for project Lec_5_368 ****
+
+Nothing to build for project Lec_5_368
+11:41:14 **** Clean-only build of configuration Debug for project Lect_6_368 ****
+make clean 
+rm -rf  ./lec6code.o  ./lec6code.d  Lect_6_368
+ 
+11:41:14 **** Incremental Build of configuration Debug for project Lect_6_368 ****
+make all 
+Building file: ../lec6code.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"lec6code.d" -MT"lec6code.o" -o "lec6code.o" "../lec6code.cpp"
+../lec6code.cpp:98:7: warning: unused variable 'e' [-Wunused-variable]
+        auto e = v7.end(); // end() actually points to one place past the end of v
+             ^
+1 warning generated.
+Finished building: ../lec6code.cpp
+ 
+Building target: Lect_6_368
+Invoking: MacOS X C++ Linker
+g++  -o "Lect_6_368"  ./lec6code.o   
+Finished building target: Lect_6_368
+ 
+11:41:15 **** Clean-only build of configuration Debug for project Lecture_2_368 ****
+make clean 
+rm -rf  ./lec2.o  ./lec2.d  Lecture_2_368
+ 
+11:41:15 **** Incremental Build of configuration Debug for project Lecture_2_368 ****
+make all 
+Building file: ../lec2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"lec2.d" -MT"lec2.o" -o "lec2.o" "../lec2.cpp"
+Finished building: ../lec2.cpp
+ 
+Building target: Lecture_2_368
+Invoking: MacOS X C++ Linker
+g++  -o "Lecture_2_368"  ./lec2.o   
+Finished building target: Lecture_2_368
+ 
+11:41:15 **** Clean-only build of configuration Debug for project Lecture_7_368 ****
+make clean 
+rm -rf  ./lecCode.o  ./lecCode.d  Lecture_7_368
+ 
+11:41:15 **** Incremental Build of configuration Debug for project Lecture_7_368 ****
+make all 
+Building file: ../lecCode.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"lecCode.d" -MT"lecCode.o" -o "lecCode.o" "../lecCode.cpp"
+Finished building: ../lecCode.cpp
+ 
+Building target: Lecture_7_368
+Invoking: MacOS X C++ Linker
+g++  -o "Lecture_7_368"  ./lecCode.o   
+Finished building target: Lecture_7_368
+ 
+11:41:16 **** Clean-only build of configuration Debug for project Lecture_ClassesAndOOP_368 ****
+make clean 
+rm -rf  ./LecCode.o  ./LecCode.d  Lecture_ClassesAndOOP_368
+ 
+11:41:17 **** Incremental Build of configuration Debug for project Lecture_ClassesAndOOP_368 ****
+make all 
+Building file: ../LecCode.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"LecCode.d" -MT"LecCode.o" -o "LecCode.o" "../LecCode.cpp"
+Finished building: ../LecCode.cpp
+ 
+Building target: Lecture_ClassesAndOOP_368
+Invoking: MacOS X C++ Linker
+g++  -o "Lecture_ClassesAndOOP_368"  ./LecCode.o   
+Finished building target: Lecture_ClassesAndOOP_368
+ 
+11:41:17 **** Clean-only build of configuration Debug for project test2_368 ****
+make clean 
+rm -rf  ./hello.o  ./hello.d  test2_368
+ 
+11:41:17 **** Incremental Build of configuration Debug for project test2_368 ****
+make all 
+Building file: ../hello.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"hello.d" -MT"hello.o" -o "hello.o" "../hello.cpp"
+Finished building: ../hello.cpp
+ 
+Building target: test2_368
+Invoking: MacOS X C++ Linker
+g++  -o "test2_368"  ./hello.o   
+Finished building target: test2_368
+ 
