@@ -1,0 +1,3 @@
+python-v
+python -V
+pip install tensorflow

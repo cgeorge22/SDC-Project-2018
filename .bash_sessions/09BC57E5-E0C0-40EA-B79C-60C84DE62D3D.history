@@ -1,0 +1,226 @@
+gcc
+gcc
+javac testingEclipse
+java testingEclipse
+java TestingEclipse
+javac TestingEclipse
+javac test.java
+echo "# SDC-Project-2018" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/cgeorge22/SDC-Project-2018.git
+git push -u origin master
+javac Eliza.java
+javac Eliza
+javac ShoppingCart.java
+ls
+best-linux.cs.wisc.edu
+ssh crgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+sudo rm -fr /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin 
+sudo rm -fr /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin 
+sudo rm -fr /Library/PreferencePanes/JavaControlPanel.prefPane 
+sudo rm -fr ~/Library/Application\ Support/Oracle/Java
+sudo rm -fr /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin
+sudo rm -fr /Library/PreferencePanes/JavaControlPanel.prefpane
+cd /Library/Java/JavaVirtualMachines
+ls
+sudo rm -rf jdk1
+ls
+pwd
+ls
+java
+sudo rm -rf "/Library/Internet Plug-Ins/JavaAppletPlugin.plugin"
+chicagobulls1
+java
+ssh cgeorge@best-linux.cs.wisc.edu
+pwd
+ls
+cd ~/chrisgeorge/Stat324
+cd ~/Users/chrisgeorge/Stat324
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh crgeorge@best-linux.cs.wisc.edu
+ssh crgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+/Library/Java/JavaVirtualMachines/jdk-11.0.4.jdk/Contents/Home/bin/java --module-path /Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml -Dfile.encoding=UTF-8 -classpath /Users/chrisgeorge/eclipse-workspace/HelloFX:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx-swt.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx.base.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx.controls.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx.fxml.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx.graphics.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx.media.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx.swing.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx.web.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/src.zip application.Main deb mark sapan
+/Library/Java/JavaVirtualMachines/jdk-11.0.4.jdk/Contents/Home/bin/java --module-path /Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml -Dfile.encoding=UTF-8 -classpath /Users/chrisgeorge/eclipse-workspace/HelloFX:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx-swt.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx.base.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx.controls.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx.fxml.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx.graphics.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx.media.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx.swing.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx.web.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/src.zip application.Main deb mark sapan
+cd eclipse-workspace
+ls
+cd HelloFX
+ls
+/Library/Java/JavaVirtualMachines/jdk-11.0.4.jdk/Contents/Home/bin/java --module-path /Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml -Dfile.encoding=UTF-8 -classpath /Users/chrisgeorge/eclipse-workspace/HelloFX:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx-swt.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx.base.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx.controls.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx.fxml.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx.graphics.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx.media.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx.swing.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/javafx.web.jar:/Users/chrisgeorge/Desktop/javafx-sdk-11.0.2/lib/src.zip application.Main
+chmod 755 hellofx
+cd Desktop
+ls
+chmod 755 hellofx
+chmod 755 hellofx.txt
+./hellofx.txt
+ls Desktop
+cd desktop
+ls
+chmod 755 hellofx
+./hellofx
+cd eclipse-workspace
+cd chrisgeorge
+ls
+./
+pwd
+cd /Users/chrisgeorge
+ls
+cd eclipse-workspacxe
+cd eclipse-workspace
+ls
+cd HelloFX
+ls
+./hellofx
+ls
+jar -cfm executable.jar manifest.txt .
+java --module-path "/Users/chrisgeorge/Desktop/javafx-sdk-ll.0.2/lib" --add-modules javafx.controls,javafx.fxml - jar executable.jar
+ls
+zip -r hellofx.zip.
+zip -r hellofx.zip
+cd eclipse-workspace
+cd eclipse-workspace
+ls
+zip -r hellofx.zip
+cd HelloFX
+ls
+zip -r hellofx.zip .
+ls
+pwd
+ls -al
+ls
+cd README.md
+asdfjkl
+/Users/chrisgeorge/Desktop/hellofx/hellofx ; exit;
+ssh cgeorge@best-linux.cs.wisc.edu
+pwd
+cd Desktop/application
+cd Desktop
+cd ateam
+zip -r ateam.zip .
+pwd
+ls
+cd ..
+pwd
+ls
+cd Guest
+ls
+cd ..
+cd chrisgeorge
+ls
+cd eclipse-workspace
+cd SocialNetwork
+ls
+cd application
+ls
+javac Main.java
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh crgeorge@best-linux.cs.wisc.edu
+ssh crgeorge@best-linux.cs.wisc.edu
+ssh crgeorge@best-linux.wisc.edu
+ssh crgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+pwd
+ls
+scp -r cgeorge@best-linux.cs.wisc.edu:/u/y/a/cgeorge/private/cs354/p1 /Users/chrisgeorge/Documents
+scp -r cgeorge@best-linux.cs.wisc.edu:/u/g/a/cgeorge/private/cs354/p1 /Users/chrisgeorge/Documents
+ssh cgeorge@best-linux.cs.wisc.edu
+scp -r cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p1 /Users/chrisgeorge/Documents
+pwd
+cd Documents
+pwd
+ls
+cd p1
+ls
+/Users/chrisgeorge/Documents/p1/decode ; exit;
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+crgeorge
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh crgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+./moss.pl -l c ./x/*
+./moss.pl -l c ./x/*
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+scp cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p3/heapAlloc.c /Users/chrisgeorge/Documents
+./moss -1 c /x/*
+./moss.pl -l c /x/*
+./moss.pl -l c ./x/*
+./moss.pl -l c ./y/*
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@wisc.edu
+ssh crgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+scp  -r cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p4A/
+pwd
+ls
+scp  -r cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p4A/ /Users/chrisgeorge/Documents/
+ssh cgeorge@best-linux.cs.wisc.edu
+cgeorge@best-linux.cs.wisc.edu
+Chicagobulls.1
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ls
+pwd
+scp cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p4B/csim.c /Users/chrisgeorge/Documents/csim.c
+scp cgeorge@best-linux.cs.wisc.edu:/scp cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p4B/csim.c Users/chrisgeorge/Documents
+pwd
+cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p4B/csim.c /Users/chrisgeorge/Documents/
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+œ
+ssh cgeorge@snares-02.cs.wisc.edu
+python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
+sudo port install py35-numpy py35-scipy py35-matplotlib py35-ipython +notebook py35-pandas py35-sympy py35-nose
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+scp cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p5/s1Asm.txt /Users/chrisgeorge/Documents
+ssh cgeorge@best-linux.cs.wisc.edu
+ssh cgeorge@best-linux.cs.wisc.edu
+scp cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p5/s2Asm.txt /Users/chrisgeorge/Documents
+ssh cgeorge@best-linux.cs.wisc.edu
+scp cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p5/s2assembly.txt /Users/chrisgeorge/Documents
+ssh cgeorge@best-linux.cs.wisc.edu

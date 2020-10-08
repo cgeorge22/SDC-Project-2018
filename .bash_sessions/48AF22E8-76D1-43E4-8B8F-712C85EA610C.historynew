@@ -1,0 +1,4 @@
+cd Desktop/test
+ls
+test.py
+python test.py

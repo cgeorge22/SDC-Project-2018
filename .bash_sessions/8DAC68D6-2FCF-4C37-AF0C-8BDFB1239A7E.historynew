@@ -1,0 +1,6 @@
+brew tap teamookla/speedtest
+brew install speedtest --force
+ls
+cd applications
+cd ../CS 639
+cd ../Github

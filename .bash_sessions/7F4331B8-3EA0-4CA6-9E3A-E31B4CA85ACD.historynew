@@ -1,0 +1,4 @@
+ssh cgeorge@best-linux.cs.wisc.edu
+scp cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p6/intdate.c /Users/chrisgeorge/Documents
+scp cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p6/sendsig.c /Users/chrisgeorge/Documents
+scp cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p6/division.c /Users/chrisgeorge/Documents

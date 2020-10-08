@@ -1,0 +1,13 @@
+!SESSION 2019-09-05 00:54:48.499 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.4
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/chrisgeorge/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -data @noDefault -keyring /Users/chrisgeorge/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-09-05 00:54:51.228
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.equinox.p2.metadata 1 0 2019-09-05 00:55:50.759
+!MESSAGE No translation source unavailable. Default language will be used.

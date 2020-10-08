@@ -1,0 +1,15 @@
+ssh cgeorge@best-linux.cs.wisc.edu
+scp cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p5/s4asm.txt /Users/chrisgeorge/Documents
+ssh cgeorge@best-linux.cs.wisc.edu
+scp cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p5/s4assembly.txt /Users/chrisgeorge/Documents
+ssh cgeorge@best-linux.cs.wisc.edu
+scp cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p5/s4asm.txt /Users/chrisgeorge/Documents
+ssh cgeorge@best-linux.cs.wisc.edu
+scp cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p5/s3asm.txt /Users/chrisgeorge/Documents
+ssh cgeorge@best-linux.cs.wisc.edu
+scp cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p5/s1.solution /Users/chrisgeorge/Documents
+chrisgeorge$ scp cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p5/s2.solution /Users/chrisgeorge/Documents
+chrisgeorge$ scp cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p5/s1.solution /Users/chrisgeorge/Document
+scp cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p5/s2.solution /Users/chrisgeorge/Documents
+scp cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p5/s3.solution /Users/chrisgeorge/Documents
+scp cgeorge@best-linux.cs.wisc.edu:/u/c/g/cgeorge/private/cs354/p5/s4.solution /Users/chrisgeorge/Documents

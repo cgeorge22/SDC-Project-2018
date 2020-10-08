@@ -1,0 +1,6 @@
+cd Github/EyeQ
+ls
+cd EyeQ
+ls
+cd ..
+git push
